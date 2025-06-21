@@ -11,4 +11,4 @@
 
 ##  Contact
 -  Email: sheeladavi506@gmail.com 
-- LinkedIn: [https://www.linkedin.com/in/sheeladavimalhi/]
+- LinkedIn: https://www.linkedin.com/in/sheeladavimalhi/
