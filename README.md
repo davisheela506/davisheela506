@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Sheela Davi Malhi
 
-<!--
-**davisheela506/davisheela506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Master's Student in Artificial Intelligence |  Passionate about AI, Machine Learning, and Data Science  
+ Based in Paris, France |  Open to international opportunities  
 
-Here are some ideas to get you started:
+## Interests
+- Computer Vision (CNNs, Image Classification, Segmentation)
+- NLP (Transformers, Sentiment Analysis, Text Classification)
+- Federated Learning, Distributed Systems
+- Research & Applied Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Contact
+-  Email: sheeladavi506@gmail.com 
+- LinkedIn: [https://www.linkedin.com/in/sheeladavimalhi/]
