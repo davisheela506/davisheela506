@@ -12,3 +12,10 @@
 ##  Contact
 -  Email: sheeladavi506@gmail.com 
 - LinkedIn: https://www.linkedin.com/in/sheeladavimalhi/
+- 
+###  Currently
+- Doing internship as an AI reseracher at CNAM CEDRIC lab, Paris, working on optimizing privacy-preserving
+medical diagnostics for underserved communities and Generation of traffic traces using GenAI.
+- Learning **advanced deep learning** (Transformers, Diffusion models)
+- Preparing for **AI roles in Europe**
+- Improving French 
