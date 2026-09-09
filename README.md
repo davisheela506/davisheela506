@@ -1,6 +1,6 @@
 # Hi, I'm Sheela Davi Malhi
 
- Master's Student in Artificial Intelligence |  Passionate about AI, Machine Learning, and Data Science  
+ AI researcher, Master's Student in Artificial Intelligence |  Passionate about AI, Machine Learning, and Data Science  
  Based in Paris, France |  Open to international opportunities  
 
 ## Interests
@@ -14,7 +14,9 @@
 - LinkedIn: https://www.linkedin.com/in/sheeladavimalhi/
 - 
 ###  Currently
-- Doing internship as an AI Researcher at CNAM CEDRIC lab, Paris, working on optimizing privacy-preserving
+- Completing seven months research internship at ITCL in Burgos, Spain, It was the part of my masters degree
+### Experience 
+- M1 internship as an AI Researcher at CNAM CEDRIC lab, Paris, worked on optimizing privacy-preserving
 medical diagnostics for underserved communities and Generation of traffic traces using GenAI.
 - Learning **advanced deep learning** (Transformers, Diffusion models)
 - Preparing for **AI roles in Europe**
