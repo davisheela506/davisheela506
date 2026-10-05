@@ -167,10 +167,16 @@ My research work has received citations on Google Scholar.
 
 ## 📜 Certifications
 
-* Machine Learning — Stanford University
-* Data Science — Johns Hopkins University
-* Google Data Analytics
-* IBM AI Foundations for Business
+
+*  Data Science – Johns Hopkins University
+*  Machine Learning – Stanford University
+*  Google Data Analytics
+*  IBM Cybersecurity Analyst
+*  IBM AI Foundations for Business
+*  IT Fundamentals for Cybersecurity
+*  Introduction to Data Science
+*  AI Foundations for Everyone
+
 
 ---
 
