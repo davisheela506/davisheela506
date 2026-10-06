@@ -1,9 +1,9 @@
-# Hi, I'm Sheela Davi Malhi 👋
+# Hi, I'm Sheela Davi Malhi 
 
 **AI Researcher | M.Sc. Artificial Intelligence for Connected Industries | Machine Learning & Agentic AI**
 
 📍 Paris, France
-🔬 Interested in **AI research, efficient AI, LLM-based agents, trustworthy AI, and machine learning for resource-constrained systems**
+Interested in **AI research, efficient AI, LLM-based agents, trustworthy AI, and machine learning for resource-constrained systems**
 
 [LinkedIn](https://www.linkedin.com/in/sheeladavimalhi/) · [Google Scholar](https://scholar.google.com/citations?user=WBX1Z5EAAAAJ&hl=en) · [Email](mailto:sheeladavi506@gmail.com)
 
@@ -15,20 +15,20 @@ I am a Master's student in **Artificial Intelligence for Connected Industries at
 
 My current research interests focus on building **reliable, efficient, and resource-aware AI systems**, particularly:
 
-* 🤖 LLM-based agentic architectures
-* 🧠 Machine Learning and Deep Learning
-* ⚡ Resource-efficient and sustainable AI
-* 🔍 AI evaluation and reliability
-* 🌐 AI for networks and distributed systems
-* 🧩 Neural Architecture Search (NAS)
-* 🛡️ Trustworthy and robust AI
-* 👁️ Computer Vision
+* LLM-based agentic architectures
+* Machine Learning and Deep Learning
+* Resource-efficient and sustainable AI
+* AI evaluation and reliability
+* AI for networks and distributed systems
+* Neural Architecture Search (NAS)
+* Trustworthy and robust AI
+* Computer Vision
 
 I enjoy working at the intersection of **AI, systems, and real-world applications**.
 
 ---
 
-## 🔬 Research & Projects
+##  Research & Projects
 
 ### 🌱 Carbon-Aware Neural Architecture Search
 
