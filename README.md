@@ -61,7 +61,7 @@ Evaluation included:
 * Honest-null rate
 * False-positive rate
 * Invalid-output rate
-* BERTScore and Levenshtein distance
+* BERTScore
 * Runtime and inference efficiency
 
 Models evaluated included **Qwen, Gemma, Ministral, and OCR-based approaches** on a Jetson AGX Orin platform.
@@ -79,7 +79,7 @@ Research internship at **CEDRIC, CNAM, Paris**, working with large-scale real-wo
 * Processed large-scale 5G traffic datasets
 * Developed preprocessing pipelines for high-volume traffic traces
 * Investigated machine-learning approaches for anomaly detection
-* Worked with real-world mobile network data containing hundreds of millions of records
+* Worked with real-world mobile network data 
 * Explored the use of GenAI for traffic-trace generation and analysis
 
 
